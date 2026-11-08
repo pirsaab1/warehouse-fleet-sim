@@ -1,0 +1,2 @@
+pygame-ce
+pillow>=10.0
