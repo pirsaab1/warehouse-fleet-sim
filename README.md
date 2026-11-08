@@ -22,7 +22,7 @@ and every robot is guaranteed a **collision-free** route using
 ## Quick start
 
 ```bash
-git clone https://github.com/Fazil/warehouse-fleet-sim.git
+git clone https://github.com/pirsaab1/warehouse-fleet-sim.git
 cd warehouse-fleet-sim
 python -m venv .venv
 .venv\Scripts\activate          # Windows  (Linux/macOS: source .venv/bin/activate)
